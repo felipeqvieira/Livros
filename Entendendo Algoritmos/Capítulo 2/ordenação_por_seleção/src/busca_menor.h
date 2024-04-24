@@ -1,0 +1,1 @@
+int ordena_vetor(int vetor[], int tam);

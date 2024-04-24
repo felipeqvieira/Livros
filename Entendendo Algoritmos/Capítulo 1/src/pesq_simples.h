@@ -1,0 +1,1 @@
+int pesq_simples(int vetor[], int valor);
